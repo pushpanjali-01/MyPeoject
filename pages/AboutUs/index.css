@@ -1,0 +1,383 @@
+.delivers img {
+    width: 100%;
+}
+
+.deliver {
+    /* padding-top: 10%; */
+    /* padding-top: 34px; */
+    text-align: center;
+    height: 600px;
+    padding-top: 39px;
+}
+.who_are_we{
+    height: 600px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.aboutUs_btn {
+    text-align: center;
+}
+
+.aboutUs_btn .btn {
+    position: absolute;
+    margin-top: -285px;
+    margin-left: 277px;
+}
+
+.shopit_btn {
+    width: 114px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    float: right;
+    position: absolute;
+    position: relative;
+    margin-top: -215px;
+    /* margin-right: 190px; */
+    height: 44px;
+}
+
+.who {
+    text-align: justify;
+}
+
+.aboutUs_heading {
+    /* padding-bottom: 50px; */
+    color: black;
+    /* text-align: center; */
+    font-weight: bold;
+    font-size: 50px
+}
+
+.under {
+    width: 135px;
+    height: 5px;
+    background-color: #0eb162;
+    margin-bottom: 35px;
+    margin-top: 10px;
+}
+
+.aboutUs_desc {
+    font-size: 21px;
+    text-align: justify;
+    color: #9B9B9B;  
+}
+
+.grocery_image {
+    text-align: end;
+    padding-top: 31%;
+}
+
+.groc img {
+    width: 500px;
+}
+
+.grocery_image img {
+    width: 90%;
+    /* height: 483px; */
+}
+
+.groc_sub_heading {
+    font-size: 21px;
+    text-align: justify;
+    color: #9B9B9B;
+    width: 510px;
+}
+
+.left_shared {
+    padding-left: 40px;
+}
+
+.groc_heading {
+    font-size: 30px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.Heading {
+    font-size: 50px;
+    text-align: justify;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-color: #0eb162;
+}
+
+.underline {
+    width: 120px;
+    height: 4px;
+    background-color: #0eb162;
+}
+
+.desc {
+    color: gray;
+    width: 125%;
+    font-size: 18px;
+}
+
+.grocery {
+    text-align: end;
+    padding-top: 85px;
+}
+
+.shared1 img {
+    width: 100%;
+
+}
+
+.shared2 {
+    text-align: end;
+}
+
+.shared2 img {
+    width: 100%;
+}
+
+.sub_heading {
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 35px;
+}
+
+.desc1 {
+    font-size: 17px;
+    width: 71%;
+    text-align: justify;
+    color: gray;
+}
+
+.info_cols {
+    padding-top: 125px;
+    /* text-align: center; */
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.groc_imm {
+    text-align: end;
+}
+.groc_imm img{
+    width: 100%;
+}
+.inner_info {
+    color: #0eb162;
+    font-weight: bold;
+}
+
+.two_sections {
+    /* padding-top: 40px; */
+    /* padding-bottom: 40px; */
+    height: 600px;
+}
+
+.delivery_stock {
+    background-color: #f7f7f7;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 600px;
+}
+
+.members {
+    height: 600px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+}
+p{
+    margin-bottom: 0;
+}
+.name {
+    display: flex;
+}
+
+.ThumbnailCard {
+    display: flex;
+    /* width: 245px; */
+    margin-top: 25px;
+    margin-bottom: 65px;
+}
+
+.profile_Image img {
+    width: 53%;
+    /* border-radius: 100%; */
+    height: 180px;
+    /* border-radius: 100%; */
+}
+
+.profile_Image {
+    /* text-align: center; */
+}
+
+.profile {
+    /* text-align: center; */
+}
+
+.profile_row {
+    /* padding-top: 60px; */
+    /* gap: 60px; */
+    text-align: center;
+
+}
+
+.name_designation {
+    text-align: justify;
+    /* padding-top: 7px; */
+    font-size: 17px;
+    margin-left: 95px;
+    padding-bottom: 15px;
+}
+
+.name_heading {
+    font-weight: 700;
+}
+
+.designatio_heading {
+    color: #696969;
+
+}
+
+.inner_container {
+    padding-left: 20px;
+}
+
+@media only screen and (max-width: 680px) {
+    .desc {
+        color: gray;
+        font-size: 15px;
+        padding-left: 15px;
+        padding-right: 130px;
+    }
+
+    .aboutUs_btn .btn {
+        position: relative;
+    margin-top: -285px;
+    margin-left: 413px;
+    width: 175px;
+    }
+    .deliver{
+        height: auto;
+    }
+    .who_are_we{
+        height: auto;
+    }
+    .grocery_image {
+        text-align: center;
+        padding-top: 8%;
+    }
+.profile_row{
+    padding-top: 0;
+}
+    .Heading {
+        font-size: 35px;
+        text-align: center;
+        font-weight: 700;
+        text-decoration: underline;
+        text-decoration-color: #0eb162;
+        padding-top: 25px;
+    }
+
+    .grocery {
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .sub_heading {
+        text-align: center;
+    }
+
+    .desc1 {
+        margin-left: 65px;
+    }
+
+    .shopit_btn {
+        width: 94px;
+        background-color: black;
+        color: white;
+        border-radius: 5px;
+        float: right;
+        position: absolute;
+        position: relative;
+        margin-top: -121px;
+        /* margin-right: 32px; */
+        height: 34px;
+    }
+    .aboutUs_heading {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .ThumbnailCard {
+        display: block;
+        /* width: 245px; */
+        margin-top: 25px;
+        margin-bottom: 65px;
+    }
+
+    .profile_row {
+        /* padding-top: 60px ; */
+        gap: 60px;
+        text-align: center;
+    }
+    .name_designation{
+        text-align: center;
+    }
+
+    .left_shared {
+        padding-top: 65px;
+        padding-left: 0px;
+    }
+    .two_sections{
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .delivery_stock{
+        background-color: #f7f7f7;
+        padding-top: 0px;
+        padding-bottom: 30px;
+        height: auto;
+    }
+    .info_cols {
+        padding-top: 20px;
+        text-align: center;
+
+}
+.profiless{
+    display: flex;
+}
+.profile_Image img{
+    width: 63%;
+}
+.name_designation {
+    text-align: justify;
+    /* padding-top: 7px; */
+    font-size: 21px;
+    margin-left: 52px;
+    padding-bottom: 15px;
+}
+.members{
+    padding-top: 70px;
+    padding-bottom: 0px;
+    height: auto;
+}
+}
+
+@media only screen and (max-width: 390px){
+.aboutUs_btn .btn {
+    position: relative;
+    margin-top: -184px;
+    margin-left: 241px;
+    width: 92px;
+    height: 37px;
+}
+
+.groc_sub_heading {
+    font-size: 15px;
+    text-align: justify;
+    color: #9B9B9B;
+    width: 304px;
+}
+.groc img{
+    width: 345px;
+}
+.groc_heading{
+    font-size: 26px;
+}
+}

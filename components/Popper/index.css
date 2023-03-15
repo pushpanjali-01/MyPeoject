@@ -1,0 +1,23 @@
+.popper{
+    background-color: #009FF9;
+    color: white;
+    display: flex;
+    /* font-weight: 800; */
+    text-align: center;
+    height: 35px;
+    position: fixed;
+    /* z-index: 100; */
+    width: 100%;
+}
+
+.popper_content{
+    display: flex;
+    text-align: center;
+    padding-left: 465px;
+    padding-top: 7px;
+    
+}
+.popper_img{
+    padding-top: 7px;
+    padding-left: 3px;
+}

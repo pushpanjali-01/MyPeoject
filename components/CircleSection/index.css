@@ -1,0 +1,6 @@
+@media(min-width:400px) and (min-height:800px){
+    .logo_img{
+        margin-top: 25px;
+        /* margin-left: 10px; */
+    }
+}

@@ -1,0 +1,16 @@
+.main_heading_Faqs {
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+@media only screen and (max-width: 680px) {
+    .main_heading_Faqs {
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width: 390px){
+    .main_heading_Faqs{
+        font-size: 20px;
+    }
+}

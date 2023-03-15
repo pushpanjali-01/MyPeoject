@@ -1,0 +1,96 @@
+/* .heading{
+    padding-top: 100px;
+} */
+/* .contact{
+    padding-top: 65px;
+} */
+.contact img{
+    width: 100%;
+    padding-top: 60px;
+}
+.contactUs{
+    height: 600px;
+}
+.contact_banner_img img{
+    width: 100%;
+}
+.contact_us{
+    padding-top: 130px;
+    padding-bottom: 40px;
+    background-color:#F7F8F8;
+    height: 600px;
+}
+.card_contact{
+    text-align: center;
+    padding-top: 20px;
+}
+.contact_details{
+    padding-top: 30px;
+}
+.contact_img img{
+    width: 80px;
+}
+.number{
+    color: black;
+    font-weight: bold;
+    padding-top: 20px;
+    /* font-size: 24px; */
+}
+.place{
+    color:lightseagreen;
+    font-weight: bolder;
+}
+.address_text{
+    font-size: 20px;
+    color: #696969;   
+}
+.address_{
+    padding-top: 15px;
+}
+.head{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+@media only screen and (max-width: 680px) {
+    .careers_banner img {
+        width: 100%;
+    }
+    .contact_us{
+        height: auto;
+        padding-bottom: 60px;
+        padding-top: 30px;
+    }
+    .card_contact{
+        text-align: center;
+        /* padding-top: 20px; */
+        /* margin-top: 50px; */
+    }
+    .card_contact:hover{
+        transform: scaleX(1.2);
+}
+.contactUs{
+    height: auto;
+}
+.contact_details{
+    padding-top: 0px;
+    gap: 27px
+}
+.contact_banner_img img{
+    width: 100%;
+    padding-top: 69px;
+}
+.number{
+    font-size: 27px;
+}
+.address_text{
+    font-size: 24px;
+}
+.head{
+    padding-bottom: 10px;
+}
+.contact_img img{
+    width: 100px;
+}
+
+}
